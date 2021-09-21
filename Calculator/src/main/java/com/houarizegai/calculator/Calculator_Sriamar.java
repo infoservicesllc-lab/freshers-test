@@ -620,6 +620,10 @@ public class Calculator {
         }
     };
 
+    public static void sriamarMethod(){
+        System.out.println("This is my new method");
+    }
+
     public static void main(String[] args) {
         new Calculator();
     }
