@@ -1,5 +1,5 @@
 
-public static void yournameMethod(){
+public static void NaveenMethod(){
         System.out.println("This is my new method");
     }
  
