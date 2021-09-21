@@ -19,6 +19,13 @@ public class Calculator {
     private static final int MARGIN_X = 20;
     private static final int MARGIN_Y = 60;
 
+    public static sakthivelmethod() {
+      System.out.println("This is my new method");        
+    }
+    public static void main(string[] args) {
+        new calculator();
+    }
+
     private JFrame window; // Main window
     private JComboBox<String> comboCalcType, comboTheme;
     private JTextField inText; // Input
