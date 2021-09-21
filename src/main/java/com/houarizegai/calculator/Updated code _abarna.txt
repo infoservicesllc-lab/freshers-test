@@ -1,0 +1,9 @@
+public static void Calculator1(){
+        System.out.println(Updated calculator code);
+    }
+ 
+    public static void main(String[] args) {
+        new Calculator();
+    }
+
+
