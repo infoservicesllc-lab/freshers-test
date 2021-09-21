@@ -1,4 +1,4 @@
-package com.houarizegai.calculator;
+﻿package com.houarizegai.calculator;
 
 import java.awt.Cursor;
 import java.awt.Font;
@@ -620,7 +620,10 @@ public class Calculator {
         }
     };
 
-    public static void main(String[] args) {
+   public static void karthikMethod(){
+        System.out.println("This is my new method");
+    }
+ public static void main(String[] args) {
         new Calculator();
     }
 }
